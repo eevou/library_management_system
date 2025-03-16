@@ -49,15 +49,7 @@ namespace LMS_oop
                     Console.WriteLine($"Title: {book.Title}");
                 }
             }   
-           // for (int i = 0; i < currrentBookCount; i++)
-            //{
-            //    if ( books[i]!= null)
-            //    {
-            //        Console.WriteLine($"Title: {books[i].Title}");
-            //    }
-
-            //}
-        }
+        
 
         public void borrow(Book book)
         {
