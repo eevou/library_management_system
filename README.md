@@ -6,10 +6,6 @@ This is a simple Library Management System (LMS) implemented in C#. The system a
 - [Features](#features)
 - [Classes Overview](#classes-overview)
 - [Principles Used](#principles-used)
-- [How to Run](#how-to-run)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
