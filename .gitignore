@@ -1,0 +1,53 @@
+# Build results
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+TestResults/
+[Pp]ublish/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.local.json
+*.dbmdl
+*.log
+
+# Visual Studio
+.vs/
+applicationhost.config
+
+# DevExpress & code analysis tools
+.cr/
+
+# Rider and VS Code
+.idea/
+.vscode/
+
+# OS generated
+*.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+*.nuspec
+packages/
+.nuget.
+
+# Temp/cache files
+*.vsidx
+*.dtbcache.v2
+*.v9.bin
+*.backup.json
+*.cache
+*.tmp
+
+# Publish profiles
+*.pubxml
+*.publishproj
+
+# JSON settings or secrets
+secrets.json
+appsettings.Development.json
